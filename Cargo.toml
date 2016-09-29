@@ -1,0 +1,8 @@
+[package]
+name = "rust-iron"
+version = "0.1.0"
+authors = ["Adam Londero <alondero@github.com>"]
+
+[dependencies]
+iron = "*"
+router = "*"
